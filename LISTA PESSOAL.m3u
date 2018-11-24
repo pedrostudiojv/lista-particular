@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/92/Globo_logo_1999.png/revision/latest?cb=20140407184535" group-title="ABERTOS", GLOBO SP
+https://cdn11.pxstream.tv/hls/boborj/chunks.m3u8?md5=tQZ3acFdmcvYIuWguogjFQ&expires=1543114686
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="ABERTOS", SBT SP
+https://ul.cdn584.net:8443/hls/kutf26.m3u8?s=V4ykn0fjYPQtMfhMlPQc_A&e=1543093360
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="ABERTOS", BAND SP
+https://ul.cdn584.net:8443/hls/7456cu4c8xd7bb.m3u8?s=8qRK-xbM91UBcY8p9v4mlA&e=1543093790
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/RecordTV_logo_2016.png/revision/latest?cb=20161129172611" group-title="ABERTOS", RECORD SP
+https://ul.cdn584.net:8443/hls/pkela4e.m3u8?s=B5n8XLT_xXPnddWOh1Sq7Q&e=1543094775
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="ABERTOS", REDE TV
+https://evpp.mm.uol.com.br/geob_redetv3/geob_redetv3/chunklist_w300944397.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geezam.com/wp-content/uploads/HBO-logo.png" group-title="FILMES", HBO
+https://cdn11.pxstream.tv/hls/hbohd/playlist.m3u8?md5=9nkUdB1HZhjXgsQe4c1tEA&expires=1543117284
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156151/telecine-premium.png?v=636446362672430000" group-title="FILMES", TELECINE PREMIUM
+https://cdn11.pxstream.tv/hls2/telecinepremium/chunks.m3u8?md5=mRpOAhEZ8DjG9kH0nvE2LQ&expires=1543117519
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-action-hd_m.png" group-title="FILMES", TELECINE ACTION
+https://cdn11.pxstream.tv/hls/telecineactionhd/playlist.m3u8?md5=GuXyEKI6Z1woSak-rcxUAw&expires=1543117635
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png/revision/latest?cb=20151109191302" group-title="FILMES", TELECINE PIPOCA
+https://cdn11.pxstream.tv/hls/telecinepipocahd/playlist.m3u8?md5=ctfJEmnphOJenEi-4N_OZA&expires=1543117811
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="FILMES", TELECINE FUN
+https://cdn11.pxstream.tv/hls/telecinefunhd/chunks.m3u8?md5=_3O9ApNS6tcEVg3tpgI0SA&expires=1543117901
+
+#EXTINF:-1 tvg-logo="https://compre.algartelecom.com.br/wp-content/uploads/2016/09/telecine-touch-hd.jpg" group-title="FILMES", TELECINE TOUCH
+https://cdn11.pxstream.tv/hls/telecinetouchhd/playlist.m3u8?md5=JyTsLwsRRhGMgVWnjhnoGQ&expires=1543117974
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="FILMES", SPACE
+https://cdn11.pxstream.tv/hls2/spacehd/playlist.m3u8?md5=IxkRsJmLYpLDlpNb2Ay_Uw&expires=1543118041
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180817/aux/kisspng-fx-logo-television-show-fox-5b776afe8aecd9.8716747515345528305691.jpg" group-title="FILMES", FX
+https://cdn11.pxstream.tv/hls2/fxhd/playlist.m3u8?md5=nb8ALoAeiUZ8v13nQZ42Jg&expires=1543118149
+
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/102/93DA9C45463A1545CCB69E3394511AB0/fox.png" group-title="FILMES", FOX
+https://cdn11.pxstream.tv/hls/fox-hd/playlist.m3u8?md5=w2Ysa3HlZaBBgNcFThpM9Q&expires=1543118344
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/max-prime-logo-png-transparent.png" group-title="FILMES", MAX PRIME
+https://cdn11.pxstream.tv/hls/maxprime/playlist.m3u8?md5=kxq635syPermz4JHA1vBSA&expires=1543118523
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-CmRA5g5wuZs/Vn5_bKpsoQI/AAAAAAAAH1Q/JOWPaIbqn2o/s1600/MEGAPIX.jpg" group-title="FILMES", MEGAPIX
+https://cdn11.pxstream.tv/hls/megapixhd/playlist.m3u8?md5=J2Z3LAdVMf-OkOEr_7wXIQ&expires=1543118681
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES", HBO PLUS
+https://cdn11.pxstream.tv/hls/hboplushd/playlist.m3u8?md5=I_16_j73Ey0b5AKbl01Qpw&expires=1543118849
+
+#EXTINF: -1 tvg-logo ="https://media.cdnandroid.com/24/05/47/bd/imagen-discovery-kids-0big.jpg" group-title = "DESENHOS", DISCOVERY KIDS
+https://cdn11.pxstream.tv/hls2/discoverykids/playlist.m3u8?md5=uNzf5akcc_eW_w6SN_1JdQ&expires=1543120508
+
+#EXTINF: -1 tvg-logo ="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=8cb9c28b-6191-4ff5-8417-b610e65469af" group-title = "DOCUMENTARIOS", DISCOVERY
+https://cdn11.pxstream.tv/hls/discoverychannelhd/playlist.m3u8?md5=gyB-cThHDmNWumRY9S1BAg&expires=1543120792
+
+#EXTINF: -1 tvg-logo = "URL DA LOGO" group-title = "TABELA", NOME DO CANAL
